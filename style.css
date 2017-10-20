@@ -1,0 +1,16 @@
+form, .thanks {
+  width:300px;
+  margin: auto;
+  margin-top: 20px
+}
+
+.thanks {
+  width: 500px
+}
+
+input[type='submit'] {
+  width: 100%;
+  background-color: green;
+  border-radius: 15px;
+  color: white;
+}
